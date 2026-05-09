@@ -2,3 +2,5 @@ PokeEngine is a Python desktop tool that generates a Unity 2022.3+ 2.5D Pokémon
 
 wyndxgo message:
 I don't claim myself to be a developer for typing in a prompt or two.. or like hundreds but i hope this can spike interest for making pokemon fangames in more modern engines in an accessible way
+
+shoutout codex, its on one heck of a run right now
