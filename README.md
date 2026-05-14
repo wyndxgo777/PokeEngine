@@ -19,7 +19,6 @@ PokeEngine is a desktop studio hub for generating and editing a Unity 2022.3.62f
 ### Pokedex Manager
 
 - Finds and opens generated gameplay JSON databases.
-- Supports Pokedex-focused files such as `pokedex_database.json`, `pokemon_species.json`, `pokemon.json`, `pokemon_forms.json`, `moves.json`, `types.json`, `abilities.json`, `natures.json`, `status_conditions.json`, `encounter_tables.json`, `region_map.json`, and `quests.json`.
 - Provides sidebar shortcuts for Data files: Pokemon, Pokedex, Moves, Abilities, Types, Items, and Natures.
 - Provides sidebar shortcuts for Level Design files: Zones, Groups, Trainers, and Quests.
 - Provides a Pokemon table view with ID, Dex #, Pokemon, and Typing.
@@ -72,7 +71,7 @@ The generated Unity project includes framework code and data for:
 
 - Core runtime bootstrap and feature registry.
 - Pokemon species data and runtime database.
-- Battle systems, advanced battle scaffolding, transformations, fusion, and raids.
+- Battle systems, advanced battle scaffolding, transformations, and raids.
 - Overworld movement, camera controls, encounters, pickups, tall grass, Pokemon Center transitions, and world streaming.
 - Save systems.
 - UI scaffolds, HUD, pause menu, and world prompts.
