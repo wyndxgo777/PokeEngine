@@ -87,4 +87,5 @@ The generated Unity project includes framework code and data for:
 - Generated or curated data can be imported into the Pokedex Manager when it is converted to JSON, CSV, or text list form.
 
 
-
+# Discord
+https://discord.gg/nqnQGzm4RV
