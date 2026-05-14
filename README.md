@@ -4,14 +4,6 @@
 
 PokeEngine is a desktop studio hub for generating and editing a Unity 2022.3.62f3 2.5D monster-catching RPG framework. It creates a ready-to-open Unity project from the local `components/` template tree, then gives you focused tools for editing generated gameplay data.
 
-## Main Files
-
-- `Pokeengine.pyw` - desktop UI launcher and data-management interface.
-- `Pokeengine_core.py` - project generation engine that copies and tokenizes the framework files.
-- `components/` - Unity scripts, editor tools, tests, StreamingAssets data, and content-pipeline templates used by generated projects.
-- `pokeengine_settings.json` - saved app preferences and recent project metadata.
-- `logs/` - app, generation, and legacy log files.
-
 ## What The Tool Offers
 
 ### Home
